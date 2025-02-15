@@ -1,0 +1,7 @@
+# Ignore all files
+*
+
+# Except the following
+!README.md
+!gcp_places_api_scraper.py
+!wilson_script.py
