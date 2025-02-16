@@ -1,6 +1,6 @@
 # Restaurant Rankings
 
-Scripts I used to [rank the restaurants in my city](https://developers.google.com/maps/documentation/javascript/cloud-setup).
+Scripts I used to [rank the restaurants in my city](https://mattsayar.com/where-are-the-best-restaurants-in-my-city-a-statistical-analysis/).
 
 ## Usage Instructions
 
